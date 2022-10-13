@@ -1,13 +1,3 @@
-### Hi there 👋
+[![stats](https://github-readme-stats.vercel.app/api?username=bottleofench&show_icons=true&count_private=true&include_all_commits=true&theme=midnight-purple&hide_border=true&bg_color=0d111700)](https://github.com/anuraghazra/github-readme-stats)
 
-## English
-
-- 🌱 I’m currently learning Java.
-- 😄 Pronouns: he/him.
-
-## На русском (Russian)
-
-- 🌱 На данный момент я изучаю Java.
-- 😄 Местоимения: он/его.
-
-</div>
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bottleofench&theme=midnight-purple&hide_border=true&bg_color=0d111700)](https://github.com/swat1x)
