@@ -15,4 +15,5 @@
 ![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
+![](https://spotify-recently-played-readme.vercel.app/api?user=vdartvb68l8qglu0z5vz0oz2z)
 ![Discord Presence](https://lanyard.cnrad.dev/api/544898188197494805)
